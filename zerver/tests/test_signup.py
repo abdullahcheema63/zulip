@@ -2591,7 +2591,7 @@ class UserSignUpTest(InviteUserBase):
 
     def test_access_signup_page_in_root_domain_without_realm(self) -> None:
         result = self.client_get('/register', subdomain="", follow=True)
-        self.assert_in_success_response(["Find your Zulip accounts"], result)
+        self.assert_in_success_response(["Find your Ytizen accounts"], result)
 
     @override_settings(AUTHENTICATION_BACKENDS=('zproject.backends.ZulipLDAPAuthBackend',
                                                 'zproject.backends.ZulipDummyBackend'))
@@ -3477,7 +3477,7 @@ class TestLoginPage(ZulipTestCase):
 class TestFindMyTeam(ZulipTestCase):
     def test_template(self) -> None:
         result = self.client_get('/accounts/find/')
-        self.assertIn("Find your Zulip accounts", result.content.decode('utf8'))
+        self.assertIn("Find your Ytizen accounts", result.content.decode('utf8'))
 
     def test_result(self) -> None:
         result = self.client_post('/accounts/find/',

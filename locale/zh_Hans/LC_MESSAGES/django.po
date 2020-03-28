@@ -2347,7 +2347,7 @@ msgid ""
 msgstr "如果您遇到任何麻烦，有问题需要反馈，或仅仅想聊聊天，任何时间都可以通过%(support_email)s联系我们。"
 
 #: templates/zerver/find_account.html:8
-msgid "Find your Zulip accounts"
+msgid "Find your Ytizen accounts"
 msgstr "查找你的Zulip账户"
 
 #: templates/zerver/find_account.html:41

@@ -2343,7 +2343,7 @@ msgid ""
 msgstr "در هر زمانی اگر با مشکلی مواجه شدید یا نظراتی داشتید یا می خواستید گفتگو کنید با ما از طریق %(support_email)s در ارتباط باشید!"
 
 #: templates/zerver/find_account.html:8
-msgid "Find your Zulip accounts"
+msgid "Find your Ytizen accounts"
 msgstr "حساب های کاربری خود را پیدا کنید "
 
 #: templates/zerver/find_account.html:41

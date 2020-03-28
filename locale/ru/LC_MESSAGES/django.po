@@ -2352,7 +2352,7 @@ msgid ""
 msgstr "Вы всегда можете связаться с нами через %(support_email)s , если возникнут трудности, вы хотите дать обратную связь или если вы просто хотите пообщаться!"
 
 #: templates/zerver/find_account.html:8
-msgid "Find your Zulip accounts"
+msgid "Find your Ytizen accounts"
 msgstr "Найти свою учетную запись Zulip"
 
 #: templates/zerver/find_account.html:41

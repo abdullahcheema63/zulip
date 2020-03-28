@@ -2341,7 +2341,7 @@ msgid ""
 msgstr ""
 
 #: templates/zerver/find_account.html:8
-msgid "Find your Zulip accounts"
+msgid "Find your Ytizen accounts"
 msgstr ""
 
 #: templates/zerver/find_account.html:41
