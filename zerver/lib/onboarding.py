@@ -44,11 +44,11 @@ def send_initial_pms(user: UserProfile) -> None:
                                    "started with Zulip\n" % (help_url,))
 
     content = (
-        "Hello, and welcome to Zulip!\n\nThis is a private message from me, Welcome Bot. "
+        "Hello, and welcome to Ytizen!\n\nThis is a private message from me, Welcome Bot. "
         "Here are some tips to get you started:\n"
         "* Download our [Desktop and mobile apps](/apps)\n"
         "* Customize your account and notifications on your [Settings page](#settings)\n"
-        "* Type `?` to check out Zulip's keyboard shortcuts\n"
+        "* Type `?` to check out Ytizen's keyboard shortcuts\n"
         "%s"
         "\n"
         "The most important shortcut is `r` to reply.\n\n"

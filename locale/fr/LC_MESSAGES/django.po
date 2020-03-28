@@ -495,7 +495,7 @@ msgstr ""
 
 #: templates/zerver/app/home.html:35
 msgid "Welcome to Zulip."
-msgstr "Bienvenue sur Zulip"
+msgstr "Bienvenue sur Ytizen"
 
 #: templates/zerver/app/home.html:37
 msgid ""
@@ -1534,7 +1534,7 @@ msgstr ""
 #: templates/zerver/emails/confirm_registration.source.html:9
 #: templates/zerver/emails/confirm_registration.txt:1
 msgid "You recently signed up for Zulip. Awesome!"
-msgstr "Vous vous êtes enregistré récemment sur Zulip. Incroyable!"
+msgstr "Vous vous êtes enregistré récemment sur Ytizen. Incroyable!"
 
 #: templates/zerver/emails/compiled/confirm_registration.html:13
 #: templates/zerver/emails/confirm_registration.source.html:12
@@ -1599,7 +1599,7 @@ msgstr "Merci d'utiliser Zulip!"
 #: templates/zerver/emails/followup_day1.source.html:8
 #: templates/zerver/emails/followup_day1.txt:1
 msgid "Welcome to Zulip!"
-msgstr "Bienvenue sur Zulip !"
+msgstr "Bienvenue sur Ytizen !"
 
 #: templates/zerver/emails/compiled/followup_day1.html:13
 #: templates/zerver/emails/followup_day1.source.html:12
@@ -2225,7 +2225,7 @@ msgstr ""
 msgid ""
 "%(referrer_full_name)s (%(referrer_email)s) wants you to join them on Zulip "
 "-- the team communication tool designed for productivity."
-msgstr "%(referrer_full_name)s (%(referrer_email)s) souhaiterait que vous le rejoignez sur Zulip -- l'outil de communication d'équipe pour gagner en productivité."
+msgstr "%(referrer_full_name)s (%(referrer_email)s) souhaiterait que vous le rejoignez sur Ytizen -- l'outil de communication d'équipe pour gagner en productivité."
 
 #: templates/zerver/emails/invitation.txt:5
 #: templates/zerver/emails/invitation_reminder.txt:5
@@ -2668,7 +2668,7 @@ msgstr "Mot de passe oublié?"
 
 #: templates/zerver/portico-header-dropdown.html:3
 msgid "Go to Zulip"
-msgstr "Aller sur Zulip"
+msgstr "Aller sur Ytizen"
 
 #: templates/zerver/privacy.html:26
 #, python-format
